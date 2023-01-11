@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Xwx4CG2klhVai2dauO2SJH5qzE/EvIqNU9/u74PHPRI=",
+  "Source": "VetScheduler.WebApi",
+  "BasePath": "_content/VetScheduler.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

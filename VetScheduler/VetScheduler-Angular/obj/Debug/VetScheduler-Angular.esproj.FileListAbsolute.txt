@@ -1,0 +1,2 @@
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler-Angular\obj\Debug\VetScheduler-Angular.esproj.SuggestedBindingRedirects.cache
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler-Angular\obj\Debug\VetScheduler-Angular.esproj.CoreCompileInputs.cache

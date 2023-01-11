@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetScheduler.WebAPI", "VetScheduler.WebAPI\VetScheduler.WebAPI.csproj", "{7C4C856E-8D6F-4F5B-9480-82C22648C103}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "VetScheduler-Angular", "VetScheduler-Angular\VetScheduler-Angular.esproj", "{5D653789-F203-4A1F-AE65-0727266F5E80}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "VetScheduler-Angular", "VetScheduler-Angular\VetScheduler-Angular.esproj", "{8EB1BAE6-BEB4-4677-99FC-7A65846DE739}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetScheduler.WebApi", "VetScheduler.WebApi\VetScheduler.WebApi.csproj", "{2EBCF440-3D88-4FB8-9502-47331A38EAC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7C4C856E-8D6F-4F5B-9480-82C22648C103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C4C856E-8D6F-4F5B-9480-82C22648C103}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C4C856E-8D6F-4F5B-9480-82C22648C103}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7C4C856E-8D6F-4F5B-9480-82C22648C103}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8EB1BAE6-BEB4-4677-99FC-7A65846DE739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8EB1BAE6-BEB4-4677-99FC-7A65846DE739}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8EB1BAE6-BEB4-4677-99FC-7A65846DE739}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{8EB1BAE6-BEB4-4677-99FC-7A65846DE739}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8EB1BAE6-BEB4-4677-99FC-7A65846DE739}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8EB1BAE6-BEB4-4677-99FC-7A65846DE739}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5D653789-F203-4A1F-AE65-0727266F5E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D653789-F203-4A1F-AE65-0727266F5E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D653789-F203-4A1F-AE65-0727266F5E80}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5D653789-F203-4A1F-AE65-0727266F5E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D653789-F203-4A1F-AE65-0727266F5E80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D653789-F203-4A1F-AE65-0727266F5E80}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2EBCF440-3D88-4FB8-9502-47331A38EAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBCF440-3D88-4FB8-9502-47331A38EAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBCF440-3D88-4FB8-9502-47331A38EAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBCF440-3D88-4FB8-9502-47331A38EAC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
