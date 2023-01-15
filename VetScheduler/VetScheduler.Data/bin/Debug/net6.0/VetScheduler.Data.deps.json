@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VetScheduler.Data/1.0.0": {
+        "dependencies": {
+          "VerScheduler.Shared": "1.0.0"
+        },
+        "runtime": {
+          "VetScheduler.Data.dll": {}
+        }
+      },
+      "VerScheduler.Shared/1.0.0": {
+        "runtime": {
+          "VerScheduler.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VetScheduler.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VerScheduler.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

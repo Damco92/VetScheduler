@@ -1,10 +1,18 @@
-﻿using VetScheduler.Data.Interfaces;
-
-namespace VetScheduler.Data.Entities
+﻿namespace VetScheduler.Data.Entities
 {
-    public class Doctor : IEntityId<int>
+    public class Doctor : BaseEntity<int>
     {
-        public Doctor() { }
-        public int Id { get; set; }
+        public Doctor(int id, string name)
+        {
+            Id = id;
+            Name = name;
+        }
+
+        public string Name { get; private set; }
+
+        public override string ToString()
+        {
+            return Name.ToString();
+        }
     }
 }

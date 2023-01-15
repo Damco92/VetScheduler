@@ -9,6 +9,8 @@ C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.
 C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.WebApi\bin\Debug\net6.0\VerScheduler.Shared.dll
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.WebApi\bin\Debug\net6.0\VerScheduler.Shared.pdb
 C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.WebApi\obj\Debug\net6.0\VetScheduler.WebApi.csproj.AssemblyReference.cache
 C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.WebApi\obj\Debug\net6.0\VetScheduler.WebApi.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.WebApi\obj\Debug\net6.0\VetScheduler.WebApi.AssemblyInfoInputs.cache

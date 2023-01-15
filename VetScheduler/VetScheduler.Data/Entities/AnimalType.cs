@@ -6,7 +6,6 @@ namespace VetScheduler.Data.Entities
     {
         public string Species { get; set; }
         public string Breed { get; set; }
-        public AnimalType() { }
 
         public AnimalType(string species, string breed) 
         {

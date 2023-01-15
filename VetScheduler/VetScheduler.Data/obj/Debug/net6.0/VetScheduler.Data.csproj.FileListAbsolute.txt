@@ -1,0 +1,15 @@
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Data\bin\Debug\net6.0\VetScheduler.Data.deps.json
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Data\bin\Debug\net6.0\VetScheduler.Data.dll
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Data\bin\Debug\net6.0\VetScheduler.Data.pdb
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Data\bin\Debug\net6.0\VerScheduler.Shared.dll
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Data\bin\Debug\net6.0\VerScheduler.Shared.pdb
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Data\obj\Debug\net6.0\VetScheduler.Data.csproj.AssemblyReference.cache
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Data\obj\Debug\net6.0\VetScheduler.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Data\obj\Debug\net6.0\VetScheduler.Data.AssemblyInfoInputs.cache
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Data\obj\Debug\net6.0\VetScheduler.Data.AssemblyInfo.cs
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Data\obj\Debug\net6.0\VetScheduler.Data.csproj.CoreCompileInputs.cache
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Data\obj\Debug\net6.0\VetScheduler.Data.csproj.CopyComplete
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Data\obj\Debug\net6.0\VetScheduler.Data.dll
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Data\obj\Debug\net6.0\refint\VetScheduler.Data.dll
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Data\obj\Debug\net6.0\VetScheduler.Data.pdb
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Data\obj\Debug\net6.0\ref\VetScheduler.Data.dll

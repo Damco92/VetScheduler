@@ -1,0 +1,12 @@
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Services\bin\Debug\net6.0\VetScheduler.Services.deps.json
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Services\bin\Debug\net6.0\VetScheduler.Services.dll
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Services\bin\Debug\net6.0\VetScheduler.Services.pdb
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Services\obj\Debug\net6.0\VetScheduler.Services.csproj.AssemblyReference.cache
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Services\obj\Debug\net6.0\VetScheduler.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Services\obj\Debug\net6.0\VetScheduler.Services.AssemblyInfoInputs.cache
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Services\obj\Debug\net6.0\VetScheduler.Services.AssemblyInfo.cs
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Services\obj\Debug\net6.0\VetScheduler.Services.csproj.CoreCompileInputs.cache
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Services\obj\Debug\net6.0\VetScheduler.Services.dll
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Services\obj\Debug\net6.0\refint\VetScheduler.Services.dll
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Services\obj\Debug\net6.0\VetScheduler.Services.pdb
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Services\obj\Debug\net6.0\ref\VetScheduler.Services.dll
