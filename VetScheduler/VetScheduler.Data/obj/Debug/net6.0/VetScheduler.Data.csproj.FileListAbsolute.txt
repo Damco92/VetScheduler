@@ -13,3 +13,5 @@ C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.
 C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Data\obj\Debug\net6.0\refint\VetScheduler.Data.dll
 C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Data\obj\Debug\net6.0\VetScheduler.Data.pdb
 C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Data\obj\Debug\net6.0\ref\VetScheduler.Data.dll
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Data\bin\Debug\net6.0\VetScheduler.Data.runtimeconfig.json
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Data\obj\Debug\net6.0\VetScheduler.Data.genruntimeconfig.cache

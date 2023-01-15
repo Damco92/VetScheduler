@@ -1,4 +1,6 @@
-﻿namespace VetScheduler.Data.Entities
+﻿using VetScheduler.Data.ValueObjects;
+
+namespace VetScheduler.Data.Entities
 {
     public class Patient : BaseEntity<int>
     {

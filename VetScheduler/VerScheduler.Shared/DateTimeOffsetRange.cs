@@ -1,5 +1,4 @@
-﻿using System;
-using VetScheduler.VetScheduler.Shared;
+﻿using VetScheduler.VetScheduler.Shared;
 
 namespace VerScheduler.Shared
 {
@@ -60,7 +59,6 @@ namespace VerScheduler.Shared
 
             return false;
         }
-
         protected override IEnumerable<object> GetEqualityComponents()
         {
             yield return Start;

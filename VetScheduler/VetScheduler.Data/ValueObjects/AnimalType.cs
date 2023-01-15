@@ -1,13 +1,13 @@
 ﻿using VetScheduler.VetScheduler.Shared;
 
-namespace VetScheduler.Data.Entities
+namespace VetScheduler.Data.ValueObjects
 {
     public class AnimalType : ValueObject
     {
-        public string Species { get; set; }
-        public string Breed { get; set; }
+        public string Species { get; }
+        public string Breed { get; }
 
-        public AnimalType(string species, string breed) 
+        public AnimalType(string species, string breed)
         {
             Species = species;
             Breed = breed;
