@@ -88,6 +88,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "VerScheduler.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/VerScheduler.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VerScheduler.Shared.dll": {}
+        }
       }
     }
   },
@@ -216,11 +226,17 @@
         "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "VerScheduler.Shared/1.0.0": {
+      "type": "project",
+      "path": "../VerScheduler.Shared/VerScheduler.Shared.csproj",
+      "msbuildProject": "../VerScheduler.Shared/VerScheduler.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Swashbuckle.AspNetCore >= 6.2.3"
+      "Swashbuckle.AspNetCore >= 6.2.3",
+      "VerScheduler.Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -249,7 +265,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VerScheduler.Shared\\VerScheduler.Shared.csproj": {
+              "projectPath": "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VerScheduler.Shared\\VerScheduler.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

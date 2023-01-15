@@ -1,0 +1,12 @@
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VerScheduler.Shared\bin\Debug\net6.0\VerScheduler.Shared.deps.json
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VerScheduler.Shared\bin\Debug\net6.0\VerScheduler.Shared.dll
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VerScheduler.Shared\bin\Debug\net6.0\VerScheduler.Shared.pdb
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VerScheduler.Shared\obj\Debug\net6.0\VerScheduler.Shared.csproj.AssemblyReference.cache
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VerScheduler.Shared\obj\Debug\net6.0\VerScheduler.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VerScheduler.Shared\obj\Debug\net6.0\VerScheduler.Shared.AssemblyInfoInputs.cache
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VerScheduler.Shared\obj\Debug\net6.0\VerScheduler.Shared.AssemblyInfo.cs
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VerScheduler.Shared\obj\Debug\net6.0\VerScheduler.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VerScheduler.Shared\obj\Debug\net6.0\VerScheduler.Shared.dll
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VerScheduler.Shared\obj\Debug\net6.0\refint\VerScheduler.Shared.dll
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VerScheduler.Shared\obj\Debug\net6.0\VerScheduler.Shared.pdb
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VerScheduler.Shared\obj\Debug\net6.0\ref\VerScheduler.Shared.dll
