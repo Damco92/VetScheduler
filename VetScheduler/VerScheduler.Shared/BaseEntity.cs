@@ -1,4 +1,4 @@
-﻿namespace VetScheduler.Data.Entities
+﻿namespace VetScheduler.VetScheduler.Shared
 {
     public abstract class BaseEntity<TId>
     {

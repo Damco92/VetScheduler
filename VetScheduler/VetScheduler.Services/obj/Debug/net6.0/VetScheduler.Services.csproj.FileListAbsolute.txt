@@ -10,3 +10,8 @@ C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.
 C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Services\obj\Debug\net6.0\refint\VetScheduler.Services.dll
 C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Services\obj\Debug\net6.0\VetScheduler.Services.pdb
 C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Services\obj\Debug\net6.0\ref\VetScheduler.Services.dll
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Services\bin\Debug\net6.0\VerScheduler.Shared.dll
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Services\bin\Debug\net6.0\VetScheduler.Data.dll
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Services\bin\Debug\net6.0\VetScheduler.Data.pdb
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Services\bin\Debug\net6.0\VerScheduler.Shared.pdb
+C:\Users\Damjan Stojanovski\source\repos\VetScheduler\VetScheduler\VetScheduler.Services\obj\Debug\net6.0\VetScheduler.Services.csproj.CopyComplete

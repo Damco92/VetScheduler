@@ -42,8 +42,6 @@ namespace VetScheduler.Data.Entities
 
         public void UpdateRoom(int newRoomId)
         {
-            //TODO: add guard clause if newroomid is negative or zero
-
             if (newRoomId == RoomId) return;
 
             RoomId = newRoomId;
@@ -51,8 +49,6 @@ namespace VetScheduler.Data.Entities
 
         public void UpdateDoctor(int newDoctorId)
         {
-            //Add guard clause if newDoctorId is negative or zero
-
             if (newDoctorId == DoctorId) return;
 
             DoctorId = newDoctorId;
@@ -78,9 +74,6 @@ namespace VetScheduler.Data.Entities
         public void UpdateAppointmentType(AppointmentType appointmentType,
           Action scheduleHandler)
         {
-            //TODO: add guard clause if appointment type is null
-
-
             if (AppointmentTypeId == appointmentType.Id) return;
 
             AppointmentTypeId = appointmentType.Id;
@@ -91,7 +84,7 @@ namespace VetScheduler.Data.Entities
 
         public void Confirm(DateTimeOffset dateConfirmed)
         {
-            if (DateTimeConfirmed.HasValue) return; // no need to reconfirm
+            if (DateTimeConfirmed.HasValue) return;
 
             DateTimeConfirmed = dateConfirmed;
         }
