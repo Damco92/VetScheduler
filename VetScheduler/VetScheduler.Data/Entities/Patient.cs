@@ -1,4 +1,5 @@
 ﻿using VetScheduler.Data.ValueObjects;
+using VetScheduler.VetScheduler.Shared;
 
 namespace VetScheduler.Data.Entities
 {

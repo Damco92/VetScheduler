@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.WebApi\\VetScheduler.WebApi.csproj": {
+    "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.Data\\VetScheduler.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.WebApi\\VetScheduler.WebApi.csproj",
-        "projectName": "VetScheduler.WebApi",
-        "projectPath": "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.WebApi\\VetScheduler.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.Data\\VetScheduler.Data.csproj",
+        "projectName": "VetScheduler.Data",
+        "projectPath": "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.Data\\VetScheduler.Data.csproj",
         "packagesPath": "C:\\Users\\Damjan Stojanovski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Damjan Stojanovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,6 +99,184 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.Services\\VetScheduler.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.Services\\VetScheduler.Services.csproj",
+        "projectName": "VetScheduler.Services",
+        "projectPath": "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.Services\\VetScheduler.Services.csproj",
+        "packagesPath": "C:\\Users\\Damjan Stojanovski\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Damjan Stojanovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.Data\\VetScheduler.Data.csproj": {
+                "projectPath": "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.Data\\VetScheduler.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.WebApi\\VetScheduler.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.WebApi\\VetScheduler.WebApi.csproj",
+        "projectName": "VetScheduler.WebApi",
+        "projectPath": "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.WebApi\\VetScheduler.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Damjan Stojanovski\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Damjan Stojanovski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VerScheduler.Shared\\VerScheduler.Shared.csproj": {
+                "projectPath": "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VerScheduler.Shared\\VerScheduler.Shared.csproj"
+              },
+              "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.Data\\VetScheduler.Data.csproj": {
+                "projectPath": "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.Data\\VetScheduler.Data.csproj"
+              },
+              "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.Services\\VetScheduler.Services.csproj": {
+                "projectPath": "C:\\Users\\Damjan Stojanovski\\source\\repos\\VetScheduler\\VetScheduler\\VetScheduler.Services\\VetScheduler.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"

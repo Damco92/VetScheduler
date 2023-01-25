@@ -7,11 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="MediatR" Version="11.1.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\VerScheduler.Shared\VerScheduler.Shared.csproj" />
+    <ProjectReference Include="..\VetScheduler.Data\VetScheduler.Data.csproj" />
+    <ProjectReference Include="..\VetScheduler.Services\VetScheduler.Services.csproj" />
   </ItemGroup>
 
 </Project>

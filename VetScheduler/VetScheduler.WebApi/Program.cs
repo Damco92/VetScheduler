@@ -1,3 +1,11 @@
+using Microsoft.AspNetCore.Hosting;
+using System.Reflection;
+using System;
+using VetScheduler.Data.Context;
+using Autofac.Core;
+using MediatR;
+using VetScheduler.Services.Mappings;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -8,6 +16,15 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddCors(options => options.AddDefaultPolicy(p => p.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod()));
+var assemblies = new Assembly[]
+{
+  typeof(Program).Assembly,
+  typeof(VetSchedulerEFContext).Assembly
+};
+
+builder.Services.AddMediatR(assemblies);
+
+builder.Services.AddAutoMapper(typeof(VetSchedulerMappings));
 
 var app = builder.Build();
 

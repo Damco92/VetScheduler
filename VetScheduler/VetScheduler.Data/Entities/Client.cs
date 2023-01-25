@@ -1,4 +1,6 @@
 ﻿
+using VetScheduler.VetScheduler.Shared;
+
 namespace VetScheduler.Data.Entities
 {
     public class Client : BaseEntity<int>

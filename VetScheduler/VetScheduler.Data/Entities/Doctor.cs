@@ -1,4 +1,6 @@
-﻿namespace VetScheduler.Data.Entities
+﻿using VetScheduler.VetScheduler.Shared;
+
+namespace VetScheduler.Data.Entities
 {
     public class Doctor : BaseEntity<int>
     {

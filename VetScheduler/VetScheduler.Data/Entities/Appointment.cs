@@ -1,5 +1,5 @@
-﻿using System;
-using VerScheduler.Shared;
+﻿using VerScheduler.Shared;
+using VetScheduler.VetScheduler.Shared;
 
 namespace VetScheduler.Data.Entities
 {
