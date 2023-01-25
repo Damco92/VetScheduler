@@ -5,6 +5,7 @@ using VetScheduler.Data.Context;
 using Autofac.Core;
 using MediatR;
 using VetScheduler.Services.Mappings;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -16,6 +17,10 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddCors(options => options.AddDefaultPolicy(p => p.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod()));
+
+builder.Services.AddDbContext<VetSchedulerEFContext>(c =>
+          c.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 var assemblies = new Assembly[]
 {
   typeof(Program).Assembly,
